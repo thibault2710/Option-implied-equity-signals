@@ -1,0 +1,8 @@
+check,status,details
+headline_table_has_6_rows,PASS,rows=6
+value_weighted_table_has_2_rows,PASS,rows=2
+audit_status_includes_pass_warn_fail,PASS,"statuses=['FAIL', 'INFO', 'PASS', 'WARN']"
+required_final_figures_exist,PASS,missing=[]
+final_results_pack_nonempty,PASS,path=/Users/thibaulteelen/Documents/thib/Booth/Quant projects/Options Project/options_implied_signals/outputs/public_2010_2023/final_results_pack.md
+headline_main_return_matches_bottom_summary,PASS,"headline=0.0757367339586017, bottom=0.0757367339586017, diff=0.0"
+headline_main_alpha_matches_factor_summary,PASS,"headline=0.0639626040983482, factor=0.0639626040983482, diff=0.0"

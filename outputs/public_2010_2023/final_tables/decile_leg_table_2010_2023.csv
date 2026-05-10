@@ -1,0 +1,17 @@
+portfolio_or_leg,annualized_ew_return,source
+D1,0.03955418943120395,decile_returns
+D2,0.0825920548768716,decile_returns
+D3,0.12197073069213087,decile_returns
+D4,0.13855762103821864,decile_returns
+D5,0.13043408824495303,decile_returns
+D6,0.1326515520860418,decile_returns
+D7,0.13713708585390677,decile_returns
+D8,0.14116680127243608,decile_returns
+D9,0.13644992065004746,decile_returns
+D10,0.09279491123884043,decile_returns
+Universe,0.1152909233898056,bottom_tail_returns
+Bottom decile,0.03955418943120395,bottom_tail_returns
+Top decile,0.09279491123884043,bottom_tail_returns
+Universe - Bottom,0.0757367339586015,bottom_tail_returns
+Top - Universe,-0.022496012150965156,bottom_tail_returns
+Top - Bottom,0.05324072180763642,bottom_tail_returns
