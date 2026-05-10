@@ -19,6 +19,8 @@ Stocks in the lowest IV-spread tail underperform the broader optionable-stock un
 | Bottom Decile U-B EW All | 7.57% | 1.11 | 4.00 | 6.40% | 5.07 |
 | Bottom Decile U-B EW $100M+ | 7.73% | 1.49 | 5.87 | 6.29% | 5.85 |
 
+Note: U-B means “Universe minus Bottom.” It is the return of the full optionable-stock universe minus the return of the lowest IV-spread tail. A positive U-B return means the bottom IV-spread group underperformed the broader universe.
+
 ![Main cumulative performance](outputs/public_2010_2023/final_figures/01_main_cumulative_performance.png)
 
 *Figure: Cumulative performance of the main IV-spread bottom-tail strategy from the public results pack.*
